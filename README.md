@@ -24,5 +24,9 @@ Looking at this program, it may seem daunting to get started. That's exactly why
 
 <img src="Download.png">
 
+1) Go to your downloads folder and extract the files to your wanted Destination
+
+<img src="Extract.png">
+
 
 
