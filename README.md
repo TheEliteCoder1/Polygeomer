@@ -20,4 +20,9 @@ There is interface to do things other than a display of information, instead you
 
 Looking at this program, it may seem daunting to get started. That's exactly why I've come up with a Demo for you.
 
+1) Go to https://github.com/TheEliteCoder1/Polygeomer and Download the Program from Github
+
+<img src="Download.png">
+
+
 
