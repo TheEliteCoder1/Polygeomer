@@ -17,3 +17,7 @@ There is interface to do things other than a display of information, instead you
 | Left Arrow | If the editing mode is set to rotate, it will rotate the shape to the left. |
 | Up Arrow | If the editing mode is set to rotate, it will increase the speed at which the shape rotates. If the editing mode is set to Background, it will scroll up the current selected image or color for the background.
 | Down Arrow | If the editing mode is set to rotate, it will decrease the speed at which the shape rotates. f the editing mode is set to Background, it will scroll downthe current selected image or color for the background. |
+
+Looking at this program, it may seem daunting to get started. That's exactly why I've come up with a Demo for you.
+
+
