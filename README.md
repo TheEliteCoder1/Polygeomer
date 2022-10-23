@@ -24,9 +24,12 @@ Looking at this program, it may seem daunting to get started. That's exactly why
 
 <img src="Download.png">
 
-1) Go to your downloads folder and extract the files to your wanted Destination
+2) Go to your downloads folder and extract the files to your wanted Destination
 
 <img src="Extract.png">
 
+3) When you open the folder and double click on main.py, the app will run and should display something like this:
+
+<img src="Demo.png">
 
 
