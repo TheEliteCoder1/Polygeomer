@@ -1,6 +1,8 @@
 # Polygeomer
 A program that allows you to Add, Move, Delete, and Rotate points in a shape.
 
+<img src="Demo.png">
+
 There is interface to do things other than a display of information, instead you have to press the Shortcuts:
 | Shortut        | Action
 | ------------- |:-------------:| 
@@ -18,7 +20,7 @@ There is interface to do things other than a display of information, instead you
 | Up Arrow | If the editing mode is set to rotate, it will increase the speed at which the shape rotates. If the editing mode is set to Background, it will scroll up the current selected image or color for the background.
 | Down Arrow | If the editing mode is set to rotate, it will decrease the speed at which the shape rotates. f the editing mode is set to Background, it will scroll downthe current selected image or color for the background. |
 
-Looking at this program, it may seem daunting to get started. That's exactly why I've come up with a Demo for you.
+How to get Polygeomer (only if you have Python installed):
 
 1) Go to https://github.com/TheEliteCoder1/Polygeomer and Download the Program from Github
 
@@ -28,8 +30,5 @@ Looking at this program, it may seem daunting to get started. That's exactly why
 
 <img src="Extract.png">
 
-3) When you open the folder and double click on main.py, the app will run and should display something like this:
-
-<img src="Demo.png">
-
+3) Then open the folder and double click on main.py
 
